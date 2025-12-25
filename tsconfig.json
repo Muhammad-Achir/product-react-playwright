@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "Node",
+    "types": ["node", "@playwright/test"]
+  },
+  "include": ["src", "product-vite-playwright/e2e", "playwright.config.ts"]
+}
